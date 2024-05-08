@@ -1,0 +1,29 @@
+Calendar Description:
+
+ECE216H1 S -- Signals and Systems
+
+II - AECPEBASC, II - AEELEBASC 3/-/2/0.50
+
+Fundamental discrete- and continuous-time signals, definition and properties of systems, linearity and time invariance, convolution, impulse response, differential and difference equations, Fourier analysis, sampling and aliasing, applications in communications.
+
+ 
+
+Learning Objectives:
+
+What is a “system”?
+– Time- and frequency-domain representation and analysis of linear time-invariant (LTI) systems
+
+What is “frequency”?
+– Fourier series presentation of continuous-time periodic signals. Fourier transform of continuous-time arbitrary signals.
+
+What is a “filter”?
+– Fourier transform presentation of continuous-time LTI systems
+
+How to convert a continuous-time signal into discrete time?
+– Sampling theorem
+
+What is “frequency” in discrete-time?
+– Discrete-time system and its Fourier analysis
+
+What is the practical relevance of this course?
+– Applications to communication systems
